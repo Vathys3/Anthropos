@@ -71,6 +71,5 @@ def main():
     v = np.array([random.uniform(0, 1) for _ in range(3)])
     print(network.run(v))
 
-
 if __name__ == '__main__':
     main()
