@@ -4,7 +4,7 @@ This project is my attempt ot implement various machine learning algorithms (mos
 
 # The Structure of Anthropos
 
-[I will expaned opun this later, with a UML diagram, but currently I'm flexible]
+[I will expanded upon this later, with a UML diagram, but currently I'm flexible]
 
 Types of learning I want to support:
 
